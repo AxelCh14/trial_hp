@@ -6,7 +6,9 @@
     <title></title>
 </head>
 <body>
+    <p>
     <div id="contenidoIndexado"></div>
-    <script type="text/javascript" src="https://storage.googleapis.com/indexado/assets/alquimioIndexado.v2.js" data-ean="194721097934" data-lang="esCL"></script> 
+    <script type="text/javascript" src="https://storage.googleapis.com/indexado/assets/alquimioIndexado.v2.js" data-ean="194721097934" data-lang="esCL"></script>
+</p>
 </body>
 </html>
